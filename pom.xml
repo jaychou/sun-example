@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>nio</module>
+  	<module>netty</module>
   </modules>
 </project>
